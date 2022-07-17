@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bit_mex_api": "^1.2.1",
+    "graceful-fs": "^4.2.10"
+  }
+}
