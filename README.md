@@ -1,5 +1,7 @@
 # Bitmex historical data downloader
 
+![Screenshot](screenshot.gif)
+
 A simple nodeJS script for downloading bitmex historical data (candles only). Data is formated for use with my Java backtesting simulator (coming soon).
 
 1. `npm install`
