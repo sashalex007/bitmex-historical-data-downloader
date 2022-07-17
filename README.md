@@ -2,7 +2,7 @@
 
 ![Screenshot](screenshot.gif)
 
-A simple nodeJS script for downloading bitmex historical data (candles only). Data is formated for use with my Java backtesting simulator (coming soon).
+A simple nodeJS script for downloading bitmex historical data (candles only). For use with my Java backtesting simulator https://github.com/sashalex007/Backtesting-simulator.
 
 1. `npm install`
 
